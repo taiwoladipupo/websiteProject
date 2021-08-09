@@ -1,0 +1,51 @@
+.jumbotron{
+    background-image: url("../images/jumbotron.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    font-family: Copperplate;
+    
+}
+
+form{
+    color: white;
+    margin-left:25%;
+    width: 100%;
+}
+
+.form-group{
+    font-family: Helvetica Condensed;
+}
+
+.jumbotron p{
+    font-size: 35px;
+    font-weight:bold;
+    padding-left: 300px;
+    color:white;
+    text-shadow: 2px 2px black;
+}
+
+.jumbotron img{
+    width: 1000px;
+}
+
+.form-intro {
+    color: white;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family: Helvetica Condensed;
+    font-size: 20px;
+}
+
+.form-control {
+    size: "50";
+}
+
+form .submit {
+    padding-left:0;
+}
+
+form h1{
+    padding-left: 0;
+}
